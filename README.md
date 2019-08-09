@@ -34,13 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    -Semantic markup tells the computer what the content looks like, such as [<p>]. Non semantic has no styleable effects. 
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    -Block display allows items to be presented side-by-side. Inline display only allows for one element on a line.
+
 
 3. What are the 4 areas of the box model?
 
+    -(inside to ou) Content, Padding, Border, Margin
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    -Cross Axis, on content's own line.
+
+
 5. Explain why git is valuable to a team of developers.
+
+    -Git allows for multiple people to work on a project (on different branches) without affecting the master or one another's work.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
